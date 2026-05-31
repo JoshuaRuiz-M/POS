@@ -11,7 +11,6 @@
 
 **PUNTO COM** es un prototipo de sistema de punto de venta empresarial con soporte para:
 
-✅ **10-20 vistas/pantallas** operativas  
 ✅ **Gestión completa de ventas** (POS, pagos, créditos)  
 ✅ **Inventario inteligente** con alertas de stock  
 ✅ **RBAC completo** (Administrador, Vendedor)  
