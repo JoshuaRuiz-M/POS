@@ -336,10 +336,3 @@ El sistema carga automáticamente datos demo para:
 
 Este es un prototipo de demostración del sistema PUNTO COM.  
 Para reportar bugs o solicitudes: [crear issue en el repositorio]
-
----
-
-**Estado del Documento:** ✅ COMPLETADO  
-**Versión:** 1.0.0  
-**Fecha:** Mayo 9, 2026  
-**Protocolo:** PROTOTIPADO (NO PRODUCCIÓN)
